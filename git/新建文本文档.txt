@@ -1,0 +1,8 @@
+<td>
+<select id="select" >
+<option value="">请选择</option>
+<option value="1">同意</option>
+<option value="2">不同意</option>
+</select>
+<input name="auditstatus" id="id " type="button" onclick="onclick()">
+</td>
